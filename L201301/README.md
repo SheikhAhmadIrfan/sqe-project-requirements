@@ -35,3 +35,11 @@ provided on page.
 
 #### 7.1- The system shall so well-coded that no one could possibly harm any user data or manipulate the system's database, resulting in mistakes and incorrect output, and ultimately, security concerns.
 #### 7.2- As a result, there shall be such a mechanism that no one will ever be able to hack it.
+
+# 5. Business Rules
+
+## There are just three interface portals in the system.
+
+#### 5.1 - The first is for the admin shall accept, refuse, edit , delete the cutomer booking made by the system.
+#### 5.2 - The second is for the customer shall just view and analyse their ticket after booking .
+#### 5.3 - The third is for the Guardian shall track the current position of its member who is on tour.

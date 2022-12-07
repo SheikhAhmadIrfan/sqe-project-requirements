@@ -10,13 +10,9 @@
 
 #### 1.5 - The system should support over 1,2000 simultaneous online users and allow 40000 concurrent users.
 
-# 2.Safety Requirements
+# 2.Language Requirements
 
-2.1- The system shall not very complicated, and it doesn't need a lot of hardware that may cause danger,loss,ordamage.
-
-2.2- It shall simply consists of a room with cameras and a weight-sensor mat, with no further gear connected to the player that might bother or damage him.
-
-2.3- When a player hits the coulee golf bowl, there shall be a device in place to ensure that it does not rebounce back at the player, potentially injuring him or her.
+#### 2.1 - Python shall be used for this AI software, as no specific language was constrained by stakeholder.
 
 # 3. Security Requirements
 
